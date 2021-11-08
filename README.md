@@ -5,7 +5,7 @@
 
 2 cd cloneしたディレクトリ名 をターミナルで実行する
 
-3 cp .env.example をターミナルで実行する
+3 cp .env.example .env をターミナルで実行する
 
 4 composer i をターミナルで実行する
 
